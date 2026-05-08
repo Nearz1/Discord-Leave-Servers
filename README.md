@@ -2,7 +2,7 @@
 <h1 align="center">🚀 Discord Guild Mass Leaver</h1>
 
 <p align="center">
-  A lightweight client-side script to mass leave Discord servers (guilds)
+  > A lightweight client-side script to mass leave Discord servers (guilds)
   directly from your browser console with smart rate-limit handling
   and exponential backoff.
 </p>
