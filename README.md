@@ -1,13 +1,17 @@
-================================================================================
-README.md
-Discord Guild Mass Leaver
-=========================
+<!-- HEADER -->
+<h1 align="center">🚀 Discord Guild Mass Leaver</h1>
 
-# 🚀 Discord Guild Mass Leaver
+<p align="center">
+  A lightweight client-side script to mass leave Discord servers (guilds)
+  directly from your browser console with smart rate-limit handling
+  and exponential backoff.
+</p>
 
-> A lightweight client-side script to mass leave Discord servers (guilds)
-> directly from your browser console, with automatic rate-limit handling
-> and exponential backoff.
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-brightgreen" />
+  <img src="https://img.shields.io/badge/version-1.0-blue" />
+  <img src="https://img.shields.io/badge/license-MIT-black" />
+</p>
 
 ---
 
@@ -148,29 +152,45 @@ Failed: 1
 
 ## 📄 License
 
-MIT License
+<div align="center">
 
-Copyright (c) 2026
+**MIT License © 2026**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+</div>
 
 ---
 
-> 💡 Note: This script was created for research purposes. Respect Discord's
-> platform and community guidelines.
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of this software and associated documentation files (the **"Software"**), to deal  
+in the Software without restriction, including without limitation the rights  
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
+copies of the Software.
+
+---
+
+### ✅ Conditions
+
+- The above copyright notice and this permission notice shall be included  
+  in all copies or substantial portions of the Software.
+
+---
+
+### ⚠️ Disclaimer
+
+The Software is provided **"AS IS"**, without warranty of any kind, express or implied,  
+including but not limited to the warranties of:
+
+- Merchantability  
+- Fitness for a particular purpose  
+- Noninfringement  
+
+In no event shall the authors or copyright holders be liable for any claim,  
+damages or other liability, whether in an action of contract, tort or otherwise.
+
+---
+
+<div align="center">
+
+💡 *This project is intended for research and educational purposes only.*
+
+</div>
